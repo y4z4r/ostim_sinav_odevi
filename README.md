@@ -1,1 +1,1 @@
-# TriviaGrupÖdev
+# TriviaGrupÖdev - kaynak: PDF
